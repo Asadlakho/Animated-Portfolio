@@ -22,7 +22,13 @@ A responsive personal portfolio website showcasing my skills, projects, and cont
 
 HTML5
 CSS3
-Twitter, Instagram, Facebook, LinkedIn links included in footer
+
+
+
+Twitter, 
+Instagram,
+Facebook,
+LinkedIn links included in footer
 
 🚀 Live Demo :
 🔗 https://asadlakho.github.io/Animated-Portfolio/
