@@ -1,4 +1,4 @@
-🌐 ASAD ALI Portfolio Website
+🌐 Animated Portfolio Website
 
 A responsive personal portfolio website showcasing my skills, projects, and contact info. Built with HTML & CSS.
 
@@ -24,3 +24,5 @@ HTML5
 CSS3
 Twitter, Instagram, Facebook, LinkedIn links included in footer
 
+🚀 Live Demo :
+🔗 https://asadlakho.github.io/Animated-Portfolio/
